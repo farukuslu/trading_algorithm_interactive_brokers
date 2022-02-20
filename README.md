@@ -1,4 +1,4 @@
-# HW2: Web Scraping, Strategy, and Backtesting
+# Financial Engineering (Duke University) - HW2: Web Scraping, Strategy, and Backtesting
 This homework will introduce you to the art of communicating between your Python Dash app and a broker's execution system. We'll be using Trader Workstation (TWS) from Interactive Brokers in this exercise to retrieve data and place orders on a paper trading account.
 
 1. Scrape yield curve, yahoo, and EIA data
